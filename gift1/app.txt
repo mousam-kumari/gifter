@@ -1,0 +1,9 @@
+#alternative  
+You have a very good choice, so just provide me a list of 9 highly-rated and trending different gift ideas with a specific product, for Indian people "
+              f"for a {age}-year-old {recipient_type} who is {gender} and loves {categories_str} items. These gifts should be suitable for {occasion}, "
+              f"available on Amazon India, and within the price range {price_range}. Ensure that each product is followed by its product_name, "
+              f"and each product is followed by a convincing reason for its selection for Indian people in brief. Ensure that the products are listed without any "
+              f"special characters such as *, -, here is an example:\n"
+              f"Product_name: Eco-friendly Water Bottle\n"
+              f"Reason: Chosen for its environmental benefits and the growing consumer preference for sustainable products.\n"
+              f"Generate 9 products with product_name and reason for selection as a gift idea. Each reason should be just below the product name.")
